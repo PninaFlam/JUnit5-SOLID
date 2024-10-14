@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\Users\user1\Desktop\תכנות - פנינה\verisoft\week4\FinalExercise\src\main\java\org\example\lifeCycle\ExtensionAtidStore.java">
+<error line="0" severity="error" message="Required pattern &apos;Avoid using System.err.println; use a logger instead.&apos; missing in file." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck"/>
+<error line="0" severity="error" message="Required pattern &apos;Avoid using System.out.println; use a logger instead.&apos; missing in file." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck"/>
+</file>
+<file name="C:\Users\user1\Desktop\תכנות - פנינה\verisoft\week4\FinalExercise\src\main\java\org\example\lifeCycle\LogExtension.java">
+<error line="0" severity="error" message="Required pattern &apos;Avoid using System.err.println; use a logger instead.&apos; missing in file." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck"/>
+<error line="0" severity="error" message="Required pattern &apos;Avoid using System.out.println; use a logger instead.&apos; missing in file." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck"/>
+</file>
+<file name="C:\Users\user1\Desktop\תכנות - פנינה\verisoft\week4\FinalExercise\src\main\java\org\example\lifeCycle\TestWatcherAtidStore.java">
+<error line="0" severity="error" message="Required pattern &apos;Avoid using System.err.println; use a logger instead.&apos; missing in file." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck"/>
+<error line="0" severity="error" message="Required pattern &apos;Avoid using System.out.println; use a logger instead.&apos; missing in file." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck"/>
+</file>
+<file name="C:\Users\user1\Desktop\תכנות - פנינה\verisoft\week4\FinalExercise\src\main\java\org\example\Main.java">
+<error line="0" severity="error" message="Required pattern &apos;Avoid using System.err.println; use a logger instead.&apos; missing in file." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck"/>
+<error line="0" severity="error" message="Required pattern &apos;Avoid using System.out.println; use a logger instead.&apos; missing in file." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck"/>
+</file>
+<file name="C:\Users\user1\Desktop\תכנות - פנינה\verisoft\week4\FinalExercise\src\main\java\org\example\pages\AccessoriesPage.java">
+<error line="0" severity="error" message="Required pattern &apos;Avoid using System.err.println; use a logger instead.&apos; missing in file." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck"/>
+<error line="0" severity="error" message="Required pattern &apos;Avoid using System.out.println; use a logger instead.&apos; missing in file." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck"/>
+</file>
+<file name="C:\Users\user1\Desktop\תכנות - פנינה\verisoft\week4\FinalExercise\src\main\java\org\example\pages\CartPage.java">
+<error line="0" severity="error" message="Required pattern &apos;Avoid using System.err.println; use a logger instead.&apos; missing in file." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck"/>
+<error line="0" severity="error" message="Required pattern &apos;Avoid using System.out.println; use a logger instead.&apos; missing in file." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck"/>
+</file>
+<file name="C:\Users\user1\Desktop\תכנות - פנינה\verisoft\week4\FinalExercise\src\main\java\org\example\pages\CheckoutPage.java">
+<error line="0" severity="error" message="Required pattern &apos;Avoid using System.err.println; use a logger instead.&apos; missing in file." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck"/>
+<error line="0" severity="error" message="Required pattern &apos;Avoid using System.out.println; use a logger instead.&apos; missing in file." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck"/>
+</file>
+<file name="C:\Users\user1\Desktop\תכנות - פנינה\verisoft\week4\FinalExercise\src\main\java\org\example\pages\ProductPage.java">
+<error line="0" severity="error" message="Required pattern &apos;Avoid using System.err.println; use a logger instead.&apos; missing in file." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck"/>
+<error line="0" severity="error" message="Required pattern &apos;Avoid using System.out.println; use a logger instead.&apos; missing in file." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck"/>
+</file>
+<file name="C:\Users\user1\Desktop\תכנות - פנינה\verisoft\week4\FinalExercise\src\main\java\org\example\pages\StoreHomePage.java">
+<error line="0" severity="error" message="Required pattern &apos;Avoid using System.err.println; use a logger instead.&apos; missing in file." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck"/>
+<error line="0" severity="error" message="Required pattern &apos;Avoid using System.out.println; use a logger instead.&apos; missing in file." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck"/>
+</file>
+<file name="C:\Users\user1\Desktop\תכנות - פנינה\verisoft\week4\FinalExercise\src\main\java\org\example\utils\BasicBrowser.java">
+<error line="0" severity="error" message="Required pattern &apos;Avoid using System.err.println; use a logger instead.&apos; missing in file." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck"/>
+<error line="0" severity="error" message="Required pattern &apos;Avoid using System.out.println; use a logger instead.&apos; missing in file." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck"/>
+</file>
+<file name="C:\Users\user1\Desktop\תכנות - פנינה\verisoft\week4\FinalExercise\src\main\java\org\example\utils\DriverChrome.java">
+<error line="0" severity="error" message="Required pattern &apos;Avoid using System.err.println; use a logger instead.&apos; missing in file." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck"/>
+<error line="0" severity="error" message="Required pattern &apos;Avoid using System.out.println; use a logger instead.&apos; missing in file." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck"/>
+</file>
+<file name="C:\Users\user1\Desktop\תכנות - פנינה\verisoft\week4\FinalExercise\src\main\java\org\example\utils\WindowManagement.java">
+<error line="0" severity="error" message="Required pattern &apos;Avoid using System.err.println; use a logger instead.&apos; missing in file." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck"/>
+<error line="0" severity="error" message="Required pattern &apos;Avoid using System.out.println; use a logger instead.&apos; missing in file." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck"/>
+</file>
+</checkstyle>
